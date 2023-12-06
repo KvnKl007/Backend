@@ -36,4 +36,4 @@ Vagrant.configure("2") do |config|
     fi
   SHELL
 
-end
+end  
